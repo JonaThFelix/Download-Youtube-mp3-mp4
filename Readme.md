@@ -9,3 +9,4 @@ Caso não ache os aqruivos, use o pesquisar do seu windows e procure exatamente 
 </br>
 ![Imagem do WhatsApp de 2023-05-23 à(s) 21 57 44](https://github.com/JonaThFelix/Download-Youtube-mp3-mp4/assets/123984244/a2e722c1-7385-4e7a-9288-9f8984063863)
 
+[Python - Pytube e OS.pdf](https://github.com/JonaThFelix/Download-Youtube-mp3-mp4/files/13260939/Python.-.Pytube.e.OS.pdf)
